@@ -1,1 +1,1 @@
-# wxpay-v4
+删除 "node-aes-gcm": "^0.2.6" 用 decryptByApiV3
